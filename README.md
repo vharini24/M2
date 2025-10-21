@@ -286,6 +286,9 @@ int main() {
 
 ## OUTPUT:
 
+<img width="353" height="181" alt="image" src="https://github.com/user-attachments/assets/510d7410-ee65-4a1d-a08f-ccee7d02413a" />
+
+
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
  
