@@ -13,7 +13,7 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 
 ## PROGRAM:
 
-
+```c
 #include <stdio.h>
 
 int main() {
@@ -37,7 +37,7 @@ int main() {
     return 0;
 }
 
-
+```
 
 
 
@@ -75,24 +75,7 @@ Write a C program to print the given triangular pattern using loop.
 
 ## PROGRAM:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```c
 #include <stdio.h>
 
 int main() {
@@ -108,7 +91,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 
 
@@ -141,6 +124,7 @@ Write a C program to perform addition and subtraction of two numbers using funct
 
 ## PROGRAM:
 
+```c
 
 #include <stdio.h>
 
@@ -168,11 +152,7 @@ int main() {
 
     return 0;
 }
-
-
-
-
-
+```
 
 
 
@@ -210,6 +190,7 @@ Write a c program to find the sum of odd digits using for loop
 
 ## PROGRAM:
 
+```c
 #include <stdio.h>
 
 int main() {
@@ -230,7 +211,7 @@ int main() {
     return 0;
 }
 
-
+```
 
 
 
@@ -267,7 +248,7 @@ d.	After the loop, print the factorial value.
 
 ## PROGRAM:
 
-
+```c
 
 #include <stdio.h>
 
@@ -295,7 +276,7 @@ int main() {
     return 0;
 }
 
-
+```
 
 
 
