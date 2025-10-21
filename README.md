@@ -76,6 +76,23 @@ Write a C program to print the given triangular pattern using loop.
 ## PROGRAM:
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include <stdio.h>
 
 int main() {
