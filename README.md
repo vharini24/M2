@@ -25,7 +25,7 @@ int main() {
     printf("Enter the Ending Number: ");
     scanf("%d", &n);
 
-    printf("Even numbers from %d to %d are:\n", M, N);
+    printf("Even numbers from %d to %d are:\n", m, n);
 
     for (int i = m; i <= n; i++) {
         if (i % 2 == 0) {  
@@ -261,16 +261,16 @@ int factorial(int n) {
 }
 
 int main() {
-    int num;
+    int n;
 
-    printf("Enter a number: ");
-    scanf("%d", &num);
+    printf("Enter a Number: ");
+    scanf("%d", &n);
 
-    if (num < 0) {
+    if (n < 0) {
         printf("Factorial is not defined for negative numbers.\n");
     } else {
-        int result = factorial(num);
-        printf("Factorial of %d is: %d\n", num, result);
+        int result = factorial(n);
+        printf("Factorial of %d is: %d\n", n, result);
     }
 
     return 0;
